@@ -1,4 +1,0 @@
-cd /home/ubuntu/hvac-web
-git init
-git add .
-git commit -m "Initial commit: HVAC Manager web application"
